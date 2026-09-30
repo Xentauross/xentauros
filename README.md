@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner-xentedev.png" alt="XenteDev - De estudiante a desarrollador" width="100%" />
+  <img src="./XenteDev_Banner.png" alt="XenteDev - De estudiante a desarrollador" width="100%" />
 
   # ¡Hola, soy XenteDev! 👋
   
@@ -7,16 +7,16 @@
   Documento mi ruta técnica, proyectos prácticos y flujos de trabajo con Inteligencia Artificial para acelerar el salto de las aulas al mercado laboral.
 
   [![YouTube Channel Subscribers](https://img.shields.io/badge/YouTube-@XenteDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@XenteDev)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+  [![LinkedIn]()]()
 </div>
 
 ---
 
-### 📌 Lo que comparto en el canal y la comunidad
+### Lo que comparto en el canal y la comunidad
 
-- 🎓 **Ruta DAW y Formación Técnica:** Métodos de estudio, organización y superación de módulos críticos sin perder tiempo.
-- 🤖 **IA Práctica para Desarrolladores:** Flujos reales con NotebookLM, Gemini y ChatGPT aplicados al estudio de código y documentación.
-- 💼 **Criterio Profesional:** Preparación de proyectos de portafolio, buenas prácticas y mentalidad para afrontar las primeras entrevistas y prácticas.
+• 🚀 Contenido sobre DAW : qué esperar del ciclo, cómo abordar los módulos complejos y métodos de estudio para avanzar sin frustrarte.
+• 🤖 IA Práctica para Estudiar y Trabajar: uso aplicado de herramientas de IA para asimilar conceptos difíciles, gestionar documentación y multiplicar tu productividad.
+• 🧠 Mentalidad : preparación para tus primeras prácticas, errores comunes y como afrontarlos.
 
 ---
 
