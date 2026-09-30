@@ -14,9 +14,9 @@
 
 ### Lo que comparto en el canal y la comunidad
 
-• 🚀 Contenido sobre DAW : qué esperar del ciclo, cómo abordar los módulos complejos y métodos de estudio para avanzar sin frustrarte.
-• 🤖 IA Práctica para Estudiar y Trabajar: uso aplicado de herramientas de IA para asimilar conceptos difíciles, gestionar documentación y multiplicar tu productividad.
-• 🧠 Mentalidad : preparación para tus primeras prácticas, errores comunes y como afrontarlos.
+- 🚀 Contenido sobre DAW : qué esperar del ciclo, cómo abordar los módulos complejos y métodos de estudio para avanzar sin frustrarte.
+- 🤖 IA Práctica para Estudiar y Trabajar: uso aplicado de herramientas de IA para asimilar conceptos difíciles, gestionar documentación y multiplicar tu productividad.
+- 🧠 Mentalidad : preparación para tus primeras prácticas, errores comunes y como afrontarlos.
 
 ---
 
